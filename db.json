@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Iphone 11",
+      "img": "http://res.cloudinary.com/hinalink/image/upload/v1645514918/nxohe5mbsakmdesv8mrp.jpg",
+      "desc": "White",
+      "price": "111111",
+      "fakePrice": 97777.68,
+      "discount": "12",
+      "status": "0",
+      "categoryId": 1
+    },
+    {
+      "title": "OPPO A37",
+      "img": "http://res.cloudinary.com/hinalink/image/upload/v1645514908/eclcdpnc9otpeom2vqam.jpg",
+      "desc": "3 cam",
+      "price": "1222222222222",
+      "fakePrice": 1075555555555.36,
+      "discount": "12",
+      "status": 1,
+      "categoryId": 1,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Xiaomi Redmi note 11",
+      "img": "http://res.cloudinary.com/hinalink/image/upload/v1645515021/tiieozvawu9jyon5qyqh.jpg",
+      "desc": "blue",
+      "price": "10000000000000",
+      "fakePrice": 9000000000000,
+      "discount": "10",
+      "status": "1",
+      "categoryId": 1
+    },
+    {
+      "title": "Samsung Galaxy A12",
+      "img": "http://res.cloudinary.com/hinalink/image/upload/v1645515102/t6i2h1n81tzugbkxwwoc.jpg",
+      "desc": "blue",
+      "price": "1000000000",
+      "fakePrice": 900000000,
+      "discount": "10",
+      "status": 1,
+      "categoryId": 4,
+      "id": 4
+    },
+    {
+      "title": "Huawei Mate X2",
+      "img": "http://res.cloudinary.com/hinalink/image/upload/v1645515221/wk4bpcbbtlwr6dtxizx0.jpg",
+      "desc": "gray",
+      "price": "1000000000",
+      "fakePrice": 880000000,
+      "discount": "12",
+      "status": 1,
+      "categoryId": 5,
+      "id": 5
+    },
+    {
+      "title": "Iphone 11 promax",
+      "img": "http://res.cloudinary.com/hinalink/image/upload/v1645515251/mpq6aybcilzfpn0wazew.jpg",
+      "desc": "OK",
+      "price": "12222222",
+      "fakePrice": 10511110.92,
+      "discount": "14",
+      "status": 1,
+      "categoryId": 2,
+      "id": 6
+    },
+    {
+      "title": "OPPO A38",
+      "img": "http://res.cloudinary.com/hinalink/image/upload/v1645515281/djxochtygtvkyrubbqsj.jpg",
+      "desc": "black",
+      "price": "13333333",
+      "fakePrice": 11866666.370000001,
+      "discount": "11",
+      "status": 1,
+      "categoryId": 1,
+      "id": 7
+    }
+  ],
+  "categorys": [
+    {
+      "id": 1,
+      "name": "OPPO"
+    },
+    {
+      "name": "IPHONE",
+      "id": 2
+    },
+    {
+      "name": "XIAOMI",
+      "id": 3
+    },
+    {
+      "name": "SAMSUNG",
+      "id": 4
+    },
+    {
+      "name": "Huawei",
+      "id": 5
+    },
+    {
+      "name": "Oddo",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "nguyensang071102@gmail.com",
+      "password": "$2a$10$ownqIPgp05neu8aT/Msm4.hm9K.C0pVtkmBA/RYILkV67XwnRKWy2",
+      "username": "Nguyen Cong Sang",
+      "role": 1,
+      "id": 4
+    }
+  ]
+}

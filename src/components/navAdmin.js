@@ -1,0 +1,35 @@
+const NavAdmin = {
+  printf() {
+    return /*html*/ `
+            <nav class="bg-red-800">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
+      <div class="flex items-center justify-between h-16">
+        <div class="flex items-center">
+          <div class="flex-shrink-0">
+            <a class="text-white"href="/">Admin</a>
+          </div>
+          <div class="hidden md:block">
+            <div class="ml-10 flex items-baseline space-x-4">
+              <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
+              <a href="/admin/dashboard" class="bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" aria-current="page">Trang Chủ</a>
+
+              <a href="/admin/category" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Danh Mục</a>
+
+              <a href="/admin/product" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Sản Phẩm</a>
+
+              
+            </div>
+          </div>
+        </div>
+        </div>
+      </div>
+    </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+        `;
+  },
+};
+
+export default NavAdmin;
